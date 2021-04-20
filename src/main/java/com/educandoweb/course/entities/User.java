@@ -81,6 +81,7 @@ public class User implements Serializable {
         return orders;
     }
 
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
